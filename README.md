@@ -16,6 +16,6 @@ The notebooks for each session can be found in the `lab/` directory for each wee
 This repository contains the following directories and files:
 
 - **`weekX/data/`**: Datasets used for demonstrations and exercises, where `X` is the week number (e.g., `week1/data/`, `week2/data/`).
-- - **`weekX/lab/`**: Jupyter notebooks for each lab session and mini-project, where `X` is the week number (e.g., `week1/lab/`, `week2/lab/`).
-- - **`weekX/slides/`**: Slides for each training session, where `X` is the week number (e.g., `week1/slides/`, `week2/slides/`).
+- **`weekX/lab/`**: Jupyter notebooks for each lab session and mini-project, where `X` is the week number (e.g., `week1/lab/`, `week2/lab/`).
+- **`weekX/slides/`**: Slides for each training session, where `X` is the week number (e.g., `week1/slides/`, `week2/slides/`).
 - **`README.md`**: This file, which provides an overview of the repository.
