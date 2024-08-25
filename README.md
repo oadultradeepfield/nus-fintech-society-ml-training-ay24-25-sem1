@@ -7,7 +7,7 @@ To get started with the materials in this repository:
 
 1. **Clone the repository**:
 ```
-https://github.com/oadultradeepfield/nus-fintech-society-ml-training-ay24-25-sem1.git
+git clone https://github.com/oadultradeepfield/nus-fintech-society-ml-training-ay24-25-sem1.git
 ```
 2. **Navigate to the notebooks**: <br>
 The notebooks for each session can be found in the `lab/` directory for each week. The solutions are to be uploaded after the submission due date.
