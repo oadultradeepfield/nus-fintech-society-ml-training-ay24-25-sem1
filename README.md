@@ -2,7 +2,7 @@
 
 Welcome to the NUS Fintech Society's Machine Learning Analyst Training Program repository for AY24/25 Semester 1. This repository contains all the resources, including Jupyter notebooks, datasets, and other materials, that will be used throughout the training program.
 
-## Getting Start
+## Getting Started
 To get started with the materials in this repository:
 
 1. **Clone the repository**:
